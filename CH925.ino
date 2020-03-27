@@ -1,10 +1,13 @@
+//aaaa
+
 //La papa con salsa no sabe mejor
+
 const int coinSelector = 4;
 const float signalCostFactor = 0.5; // Each signal pulse is worth 5p
 
-
+//rama de la rama
 //Marzo 27, 2020.
-
+//Nueva rama por metodo del click
 
 int signalValue = 0; // For storing value from analog input
 

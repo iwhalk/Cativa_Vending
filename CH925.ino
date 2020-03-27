@@ -2,6 +2,10 @@
 const int coinSelector = 4;
 const float signalCostFactor = 0.5; // Each signal pulse is worth 5p
 
+
+//Marzo 27, 2020.
+
+
 int signalValue = 0; // For storing value from analog input
 
 int state; // Current state
@@ -22,7 +26,6 @@ void setup() {
   delay(2000); // Don't start main loop until we're sure that the coin selector has started
   Serial.println("Ready..");
 
-}
 
 void loop() {
 

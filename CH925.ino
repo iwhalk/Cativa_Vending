@@ -1,4 +1,7 @@
 //aaaa
+
+//La papa con salsa no sabe mejor
+
 const int coinSelector = 4;
 const float signalCostFactor = 0.5; // Each signal pulse is worth 5p
 

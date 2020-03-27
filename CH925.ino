@@ -1,8 +1,8 @@
-
+//aaaa
 const int coinSelector = 4;
 const float signalCostFactor = 0.5; // Each signal pulse is worth 5p
 
-
+//rama de la rama
 //Marzo 27, 2020.
 
 
